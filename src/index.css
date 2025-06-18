@@ -1,0 +1,60 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.embla {
+    overflow: hidden;
+}
+
+.embla__container {
+    display: flex;
+}
+
+.embla__slide {
+    flex: 0 0 100%;
+    min-width: 0;
+}
+
+/* global.css or tailwind.config.js shortcuts */
+.select-wide {
+    @apply border px-4 py-2 rounded-md w-[160px] text-gray-600 placeholder-gray-400;
+}
+
+.input-wide {
+    @apply border px-4 py-2 rounded-md w-[160px] text-gray-600 placeholder-gray-400;
+}
+
+.select-wide-r2 {
+    @apply border px-4 py-2 rounded-md w-[186px] text-gray-600 placeholder-gray-400;
+}
+
+.input-wide-r2 {
+    @apply border px-4 py-2 rounded-md w-[186px] text-gray-600 placeholder-gray-400;
+}
+
+/* // Inside index.css or global.css */
+@layer components {
+    .input {
+        @apply border border-gray-300 rounded-md px-4 py-2 w-full focus:outline-none focus:ring-2 focus:ring-teal-400;
+    }
+}
+
+
+/* index.css */
+.testimonial-text::-webkit-scrollbar {
+    width: 6px;
+}
+
+.testimonial-text::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+.testimonial-text::-webkit-scrollbar-thumb {
+    background: #888;
+}
+
+.testimonial-text::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}

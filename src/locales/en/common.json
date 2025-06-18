@@ -1,0 +1,139 @@
+{
+    "home": "Home",
+    "about": "About Us",
+    "contact": "Contact",
+    "property": "Property",
+    "properties": "Properties",
+    "login": "Login",
+    "signup": "Signup",
+    "carousel": {
+        "title1": "Turning Your Property",
+        "title2": "Dreams Into Reality",
+        "subtitle1": "Step into refined living with hand-selected homes in the most sought-after locations.",
+        "subtitle2": "Experience real estate elevated to match your lifestyle."
+    },
+    "searchbar": {
+        "placeholder": "Enter an address, town, street, zip or property ID",
+        "allCities": "All Cities",
+        "status": "Status",
+        "forSale": "For Sale",
+        "forRent": "For Rent",
+        "type": "Type",
+        "villa": "Villa",
+        "house": "House",
+        "search": "Search",
+        "bedrooms": "Bedrooms",
+        "minArea": "Min. Area",
+        "maxArea": "Max. Area",
+        "minPrice": "Min. Price",
+        "maxPrice": "Max. Price"
+    },
+    "propertyCard": {
+        "viewDetails": "View Details →",
+        "propertyTitle": {
+            "Historic Villa": "Historic Villa",
+            "Luxury Home For Sale": "Luxury Home For Sale",
+            "Amazing Villa for Sale": "Amazing Villa for Sale"
+        },
+        "statusTags": {
+            "FEATURED": "Featured",
+            "FOR SALE": "For Sale",
+            "HOT OFFER": "Hot Offer"
+        }
+    },
+    "propertyList": {
+        "title": "Featured Luxury Property",
+        "subtitle": "Create property listings with all the features you'd expect"
+    },
+    "realEstate": {
+        "title": "Real Estate Market Value",
+        "description": "Residential real estate is a type of property, containing either a single family or multifamily structure, that is available for occupation for non-business purposes.",
+        "housingStock": "Housing Stock",
+        "householdIncome": "Household Incomes",
+        "owned": "Owned",
+        "rented": "Rented",
+        "sold": "Sold",
+        "below75k": "Below 75k",
+        "between75k100k": "75k to 100k",
+        "between100k200k": "100k to 200k",
+        "between200k500k": "200k to 500k",
+        "above500k": "500k and more"
+    },
+    "valuation": {
+        "title": "Request Your Property Valuation",
+        "personalInfo": "Personal Information",
+        "propertyInfo": "Property Information",
+        "select": "Select",
+        "mr": "Mr.",
+        "ms": "Ms.",
+        "firstName": "First name",
+        "lastName": "Last name",
+        "email": "Email address",
+        "phone": "Phone number",
+        "type": "Type",
+        "apartment": "Apartment",
+        "villa": "Villa",
+        "house": "House",
+        "zip": "Zip code",
+        "city": "City",
+        "bedrooms": "N. of bedrooms",
+        "bathrooms": "N. of bathrooms",
+        "budget": "Your budget",
+        "submit": "Submit"
+    },
+    "testimonials": {
+        "title": "Feedbacks & Testimonials",
+        "subtitle": "Hear from our clients! Genuine feedback and experiences shared by those we've served.",
+        "t1": "Using Houzez was the best decision for listing my property. The platform was user-friendly and professional, and within a week, I had multiple serious buyers. Highly impressed with the exposure it brought!",
+        "t2": "Houzez made it incredibly easy for me to find a rental property near my university. The listings were accurate, the agents were responsive, and the whole experience felt seamless. I highly recommend it!",
+        "t3": "I was relocating for my research fellowship and needed a home fast. Houzez not only helped me search by budget and location but also connected me with verified agents. The platform saved me time and stress!",
+        "t4": "I wanted to invest in a small rental property, and Houzez provided me with detailed insights, clear pricing filters, and virtual tours. It’s a game-changer for first-time investors like me!",
+        "t5": "From shortlisting to closing the deal, Houzez was with me every step. The interface is clean, the support is top-notch, and the agents were all professional. Couldn't have asked for a better platform."
+    },
+    "footer": {
+        "aboutTitle": "About Site",
+        "aboutDescription": "Our platform offers modern real estate tools for agents and designers — combining aesthetic design with ease of use.",
+        "readMore": "Read more",
+        "contactTitle": "Contact Us",
+        "address": "774 NE 84th St Miami, FL 33879",
+        "contactLink": "Contact us",
+        "newsletterTitle": "Newsletter",
+        "emailPlaceholder": "Enter your email",
+        "submit": "Submit",
+        "newsletterDescription": "Stay up to date with the latest listings & news.",
+        "copyright": "© Houzez – All rights reserved"
+    },
+    "innerBanner": {
+        "welcome": "Welcome to the {{page}} page"
+    },
+    "contactPage": {
+        "title": "Get in Touch",
+        "firstName": "First Name",
+        "lastName": "Last Name",
+        "email": "Email",
+        "message": "Message",
+        "messagePlaceholder": "Write your message...",
+        "submit": "Submit",
+        "headOffice": "Corporate Headquarters",
+        "address": "1584 Biscayne Boulevard\nMiami FL, 33176",
+        "person1": {
+            "name": "Amy Miller",
+            "role": "Public Relations Manager"
+        },
+        "person2": {
+            "name": "Kyle Parker",
+            "role": "Public Relations Associate"
+        }
+    },
+    "testimonialsService": {
+        "title": "Service Provider Feedback",
+        "subtitle": "What our trusted service providers say about working with us.",
+        "t1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus.",
+        "t2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "t3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum vestibulum.",
+        "t4": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.",
+        "t5": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.",
+        "t6": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam nec odio et odio dignissim faucibus.",
+        "viewAll": "View All"
+    }
+}

@@ -1,0 +1,139 @@
+{
+    "home": "Accueil",
+    "properties": "Propriétés",
+    "about": "À propos",
+    "property": "Propriété",
+    "contact": "Contact",
+    "login": "Connexion",
+    "signup": "Inscription",
+    "carousel": {
+        "title1": "Transformez votre propriété",
+        "title2": "Rêves en réalité",
+        "subtitle1": "Entrez dans un style de vie raffiné avec des maisons triées sur le volet dans les endroits les plus recherchés.",
+        "subtitle2": "Découvrez l'immobilier réinventé pour votre style de vie."
+    },
+    "searchbar": {
+        "placeholder": "Entrez une adresse, une ville, une rue, un code postal ou un ID",
+        "allCities": "Toutes les villes",
+        "status": "Statut",
+        "forSale": "À vendre",
+        "forRent": "À louer",
+        "type": "Type",
+        "villa": "Villa",
+        "house": "Maison",
+        "search": "Rechercher",
+        "bedrooms": "Chambres",
+        "minArea": "Superficie min.",
+        "maxArea": "Superficie max.",
+        "minPrice": "Prix min.",
+        "maxPrice": "Prix max."
+    },
+    "propertyCard": {
+        "viewDetails": "Voir les détails →",
+        "propertyTitle": {
+            "Historic Villa": "Villa historique",
+            "Luxury Home For Sale": "Maison de luxe à vendre",
+            "Amazing Villa for Sale": "Villa incroyable à vendre"
+        },
+        "statusTags": {
+            "FEATURED": "En vedette",
+            "FOR SALE": "À vendre",
+            "HOT OFFER": "Offre spéciale"
+        }
+    },
+    "propertyList": {
+        "title": "Propriétés de luxe en vedette",
+        "subtitle": "Créez des annonces immobilières avec toutes les fonctionnalités attendues"
+    },
+    "realEstate": {
+        "title": "Valeur du marché immobilier",
+        "description": "L'immobilier résidentiel est un type de bien, contenant une maison unifamiliale ou multifamiliale, disponible à des fins non commerciales.",
+        "housingStock": "Parc immobilier",
+        "householdIncome": "Revenus des ménages",
+        "owned": "Possédé",
+        "rented": "Loué",
+        "sold": "Vendu",
+        "below75k": "Moins de 75k",
+        "between75k100k": "75k à 100k",
+        "between100k200k": "100k à 200k",
+        "between200k500k": "200k à 500k",
+        "above500k": "500k et plus"
+    },
+    "valuation": {
+        "title": "Demandez l'évaluation de votre propriété",
+        "personalInfo": "Informations personnelles",
+        "propertyInfo": "Informations sur la propriété",
+        "select": "Sélectionner",
+        "mr": "M.",
+        "ms": "Mme",
+        "firstName": "Prénom",
+        "lastName": "Nom de famille",
+        "email": "Adresse e-mail",
+        "phone": "Numéro de téléphone",
+        "type": "Type",
+        "apartment": "Appartement",
+        "villa": "Villa",
+        "house": "Maison",
+        "zip": "Code postal",
+        "city": "Ville",
+        "bedrooms": "N. de chambres",
+        "bathrooms": "N. de salles de bain",
+        "budget": "Votre budget",
+        "submit": "Soumettre"
+    },
+    "testimonials": {
+        "title": "Témoignages et Avis",
+        "subtitle": "Écoutez nos clients ! Des retours sincères partagés par ceux que nous avons servis.",
+        "t1": "Utiliser Houzez a été la meilleure décision pour vendre ma propriété. La plateforme est conviviale et professionnelle. En une semaine, j'avais plusieurs acheteurs sérieux.",
+        "t2": "Houzez m'a aidé à trouver facilement un logement près de mon université. Les annonces étaient précises et les agents très réactifs. Une expérience fluide !",
+        "t3": "Je devais déménager pour une bourse de recherche. Houzez m'a permis de filtrer par budget et localisation, et m'a mis en relation avec des agents fiables.",
+        "t4": "Je voulais investir dans une petite location. Houzez m'a donné des informations précises, des filtres de prix clairs et des visites virtuelles. Parfait pour les nouveaux investisseurs.",
+        "t5": "De la présélection à la finalisation, Houzez a tout géré. Interface simple, agents pros, excellent service. Rien à redire."
+    },
+    "footer": {
+        "aboutTitle": "À propos du site",
+        "aboutDescription": "Notre plateforme propose des outils immobiliers modernes pour les agents et les designers — alliant esthétique et facilité d'utilisation.",
+        "readMore": "Lire la suite",
+        "contactTitle": "Contactez-nous",
+        "address": "774 NE 84th St Miami, FL 33879",
+        "contactLink": "Nous contacter",
+        "newsletterTitle": "Bulletin",
+        "emailPlaceholder": "Entrez votre email",
+        "submit": "Soumettre",
+        "newsletterDescription": "Restez informé des dernières annonces et actualités.",
+        "copyright": "© Houzez – Tous droits réservés"
+    },
+    "contactPage": {
+        "title": "Contactez-nous",
+        "firstName": "Prénom",
+        "lastName": "Nom de famille",
+        "email": "Email",
+        "message": "Message",
+        "messagePlaceholder": "Écrivez votre message...",
+        "submit": "Soumettre",
+        "headOffice": "Siège social",
+        "address": "1584 Biscayne Boulevard\nMiami FL, 33176",
+        "person1": {
+            "name": "Amy Miller",
+            "role": "Responsable des relations publiques"
+        },
+        "person2": {
+            "name": "Kyle Parker",
+            "role": "Associé aux relations publiques"
+        }
+    },
+    "innerBanner": {
+        "welcome": "Bienvenue sur la page {{page}}"
+    },
+    "testimonialsService": {
+        "title": "Avis des prestataires de services",
+        "subtitle": "Ce que disent nos prestataires de services de confiance à propos de notre collaboration.",
+        "t1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus.",
+        "t2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "t3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum vestibulum.",
+        "t4": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.",
+        "t5": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.",
+        "t6": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam nec odio et odio dignissim faucibus.",
+        "viewAll": "Voir tout"
+    }
+}
